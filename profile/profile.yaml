@@ -1,0 +1,114 @@
+# Preferred name (Characters only)
+name: "Benny Mugisha"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_BennyMugisha
+
+# Introduce yourself, and your academic and professional background.
+# What excites you about the software industry and your passion? At least 80 words
+summary: As a Software Developer, I have gained experience in programming and testing through education and hands-on roles. My Software Developer Internship allowed me to work with Java, SpringBoot, Angular, Azure, and MongoDB while developing key skills in communication and time management. I collaborated effectively with team members, listened to feedback, and managed multiple tasks to meet deadlines. My involvement in sports and societies during my Computer Science studies at Dalhousie University further enhanced my organizational skills and teamwork abilities. I am committed to continuous learning and eager to stay updated on industry advancements, always looking for new opportunities to grow and apply my skills.
+
+# Group your skills by level.
+# Your skills can be anything software-related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Java
+    - Linux/Bash
+    - RDBMS/SQL
+    - Agile/Scrum
+    - Git
+    - Docker
+    - C++
+    - Python
+  # At least 5 skills
+  competent:
+    - Angular
+    - React
+    - JavaScript
+    - NodeJS
+    - PHP
+    - Azure
+    - GCP
+  # At least 5 skills
+  familiar:
+    - Rust
+    - C
+    - C#
+    - .NET
+    - AWS
+    - Kubernetes
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Cluster Monitor"
+    git_url: "/linux_sql"
+    # The project description allows hiring managers to understand your project and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Programmed a Linux Cluster Monitoring Agent resource to collect system and hardware specifications. Developed Bash Scripts to automate the installation of required docker containers and SQL running processes. Configured the Crontab to automate the collection of the Linux system resource usage. Followed the Software Development Life Cycle for GitFlow to track and modify my development of the scripts.
+
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+  #project name
+  - name: "Open Chat App"
+    #URL is optional
+    # git_url: "https://github.com/jarviscanada/jarvis_profile_builder"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Implemented an interactive design that helps users navigate the app and find other users without difficulty. Utilized Electron as the main development provider of the cross-platform application.
+  - name: "Random Crawler and Projection"
+    # git_url:
+    description: Analyzed machine learning statistics to predict the random crawler. Used Jupyter Notebook to write codes that will be presented as a double project.
+
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software-related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Software Developer"
+    company: "Jarvis"
+    duration: "2024-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Organized my schedule to adjust to deadlines and daily scrum meetings. Performed the tasks using the notion project management platform to record the progress for the assigned modules. "
+  - title: "Software Developer Intern"
+    company: "Vanderlande"
+    duration: "Jan 2023 - Apr 2023"
+    description: "Designed and implemented REST APIs to improve data exchange between systems to apply communication
+from front-end to back-end services. Utilized TypeScript, Angular, and Node.js to create user-friendly interfaces. Built scalable and high-performance applications using NoSQL databases. Attended Scrum meetings every day to provide updates on daily reports and discuss project deliverables
+assigned on Jira."
+  - title: "FCS Learning Centre Staff"
+    company: "Dalhousie University"
+    duration: "May 2022 - Dec 2022"
+    description: "Helped students with inquiries on academic work and course programs including assignments and projects. Guided students through specific, complex subjects to promote confidence in their knowledge."
+  - title: "Customer Service Representative"
+    company: "Manulife/TargetCW"
+    duration: "Jan 2018 - May 2022"
+    description: "Followed procedures for customer verification and communication flow. Handled inbound calls and correspondences from business customers. Checked the client's information and financial payment information for confirmation and correction."
+
+
+#List of education
+education:
+  - school_name: "Dalhousie University"
+    duration: "2019-2022"
+    degree: "Bachelor of Computer Science"
+    department: "Faculty Of Computer Science"
+    # optional
+    awards_achievements:
+      - "Sexton Scholar (2020)"
+      - "Dean's List (2021)"
+
+#Optional section
+others:
+  #category
+  - title: "Certificates"
+    #list of items
+    bullets:
+      - "IBM Applied DevOps Engineering Professional Certificate (2023)"
+  - title: "Awards"
+    bullets:
+      - "Broader Reach Award - AYC Sailing School"
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Workout fitness"
+      - "Board games"
+      - "Volleyball"
+      - "Traveling and Exploring New Places"
