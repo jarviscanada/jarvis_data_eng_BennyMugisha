@@ -42,7 +42,7 @@ bash> crontab -e
 The following describes the project implementation with more depth on what each script is running in the background
 ## Architecture
 A cluster diagram with three Linux hosts, a DB, and agents <br>
-![Linux Cluster Architecture]('assets/System Architecture'.png)
+![Linux Cluster Architecture](assets/"System Architecture".png)
 ## Scripts
 Shell script description and usage.
 - __psql_docker.sh:__ a script that facilitates the installation of the psql docker container. It can also start and stop the container. Available commands are start|stop|create
