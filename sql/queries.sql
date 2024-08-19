@@ -66,7 +66,7 @@ DELETE FROM cd.bookings;
 
 --- Question 6: Delete a member from the cd.members table
 
-```sql
+
 DELETE FROM
   cd.members
 WHERE
@@ -243,7 +243,7 @@ GROUP BY
   facid
 ORDER BY
   "Total Slots";
-```
+
 --- Question 20: List the total slots booked per facility per month
 
 SELECT
@@ -349,7 +349,7 @@ FROM
   cd.members;
 
 --- Question 27: Find telephone numbers with parentheses
-```
+
 SELECT
   memid,
   telephone

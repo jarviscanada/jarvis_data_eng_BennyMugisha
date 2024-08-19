@@ -6,7 +6,7 @@
 
 To start this project, I created the three required tables using the given ERD similar to the one bellow.
 
-![ERD diagram](https://drive.google.com/file/d/1-qTaF_ih_Uo0IM4Ud0xE7KPHmC9YO7Bf/preview)
+https://drive.google.com/file/d/1-qTaF_ih_Uo0IM4Ud0xE7KPHmC9YO7Bf/preview
 
 The implementation to create data modeling of the ERD was designed in the following method:
 ```
