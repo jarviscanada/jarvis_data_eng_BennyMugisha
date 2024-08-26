@@ -1,6 +1,38 @@
 # Introduction
+This project is developed to interact with SQL and practice RDBMS.
+It is designed to work with PostgreSQL through the docker container, although it is not required to use docker.
+The initial presentation is to use the ERD to practice the exercise using club members, facilities, and bookings.
+Then proceed to answer 28 questions about database management and queries from sample data.
 
-# SQL Quries
+## Working with the repo
+To start, you need to have PostgreSQL installed either on your machine or using docker.
+Once you are ready and your PostgreSQL is running, you can refer to the following steps:
+
+Step 1. Clone the repo and navigate to the project
+```
+git clone https://github.com/jarviscanada/jarvis_data_eng_BennyMugisha.git
+cd jarvis_data_eng_BennyMugisha/sql
+```
+Step 2. Create the database and tables. Then populate sample data
+```
+psql -h localhost -U <username> -f clubdata.sql -d postgres -x -q
+```
+Step 3. Check that the database and tables were created
+```
+# Enter the password in the below command
+psql -h localhost -U postgres
+# Check to see if the "exercises" database was created 
+\l
+# Connect to the "exercises" database
+\c exercises
+# Work with the specific schema
+SET SCHEMA 'cd';
+# Show the tables
+\dt
+```
+Step 4. Refer to the "Modifying Data" section below or check the queries.sql
+
+# SQL Queries
 
 ###### Table Setup (DDL)
 
