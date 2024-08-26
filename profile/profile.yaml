@@ -44,7 +44,14 @@ jarvis_projects:
     git_url: "/linux_sql"
     # The project description allows hiring managers to understand your project and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Programmed a Linux Cluster Monitoring Agent resource to collect system and hardware specifications. Developed Bash Scripts to automate the installation of required docker containers and SQL running processes. Configured the Crontab to automate the collection of the Linux system resource usage. Followed the Software Development Life Cycle for GitFlow to track and modify my development of the scripts.
+    description: Programmed a Linux Cluster Monitoring Agent resource to collect system and hardware specifications. 
+      Developed Bash Scripts to automate the installation of required docker containers and SQL running processes. Configured the Crontab to automate the collection of the Linux system resource usage. 
+      Followed the Software Development Life Cycle for GitFlow to track and modify my development of the scripts.
+  - name: "RDBMS and SQL"
+    git_url: "/sql"
+    description: Integrated the database configuration for PostgreSQL to set up the initial exercise practice. 
+      Designed and tested a database using an ERD from an exercise about building data for club members, bookings, and facilities. 
+      Provided solutions to questions about database management and queries by following the PostgreSQL documentation.
 
 # List of personal or academic projects
 # Feel free to add more projects

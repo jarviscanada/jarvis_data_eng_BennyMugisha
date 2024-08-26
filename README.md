@@ -17,6 +17,8 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_BennyMugis
 
 **Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_BennyMugisha/tree/master/linux_sql)]: Programmed a Linux Cluster Monitoring Agent resource to collect system and hardware specifications. Developed Bash Scripts to automate the installation of required docker containers and SQL running processes. Configured the Crontab to automate the collection of the Linux system resource usage. Followed the Software Development Life Cycle for GitFlow to track and modify my development of the scripts.
 
+**RDBMS and SQL** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_BennyMugisha/tree/master/sql)]: Integrated the database configuration for PostgreSQL to set up the initial exercise practice. Designed and tested a database using an ERD from an exercise about building data for club members, bookings, and facilities. Provided solutions to questions about database management and queries by following the PostgreSQL documentation.
+
 
 ## Highlighted Projects
 **Open Chat App**: Implemented an interactive design that helps users navigate the app and find other users without difficulty. Utilized Electron as the main development provider of the cross-platform application.
