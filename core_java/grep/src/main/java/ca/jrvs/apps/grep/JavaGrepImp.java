@@ -12,7 +12,7 @@ import java.util.regex.Pattern;
 
 public class JavaGrepImp implements JavaGrep{
 
-    final Logger logger = LoggerFactory.getLogger(JavaGrep.class);
+    final Logger logger = LoggerFactory.getLogger(JavaGrepImp.class);
     private String regex;
     private String rootPath;
     private String outFile;
@@ -39,9 +39,9 @@ public class JavaGrepImp implements JavaGrep{
     }
 
     @Override
-    public void process() throws IOException {
+    public void process() {
         List<String> matchedLines = new ArrayList<>();
-        for (File file: listFiles(rootPath)) {
+        for (File file: listFiles(getRootPath())) {
             for (String line: readLines(file)) {
                 if (containsPattern(line)) {
                     matchedLines.add(line);
