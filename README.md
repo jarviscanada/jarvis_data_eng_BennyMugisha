@@ -1,15 +1,5 @@
-# Jarvis Data Engineering Training
-1. [Linux Cluster Monitoring Agent (Linux and SQL)](./linux_sql) In-progress
-2. [Core Java Apps](./core_java) In-progress
-3. [Python Data Analytics](./python_data_analytics) In-progress
-4. [Spring Boot Trading REST API](./springboot) In-progress
-5. [Javascript Front End](./javascript) In-progress
-6. [Hadoop/Hive](./hadoop) In-progress
-7. [Spark/Scala](./spark) In-progress
-8. [Cloud/DevOps](./cloud_devops) In-progress
+# Benny Mugisha . Jarvis Consulting
 
-<<<<<<< HEAD
-=======
 As a Software Developer, I have gained experience in programming and testing through education and hands-on roles. My Software Developer Internship allowed me to work with Java, SpringBoot, Angular, Azure, and MongoDB while developing key skills in communication and time management. I collaborated effectively with team members, listened to feedback, and managed multiple tasks to meet deadlines. My involvement in sports and societies during my Computer Science studies at Dalhousie University further enhanced my organizational skills and teamwork abilities. I am committed to continuous learning and eager to stay updated on industry advancements, always looking for new opportunities to grow and apply my skills.
 
 ## Skills
@@ -28,6 +18,8 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_BennyMugis
 **Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_BennyMugisha/tree/master/linux_sql)]: Programmed a Linux Cluster Monitoring Agent resource to collect system and hardware specifications. Developed Bash Scripts to automate the installation of required docker containers and SQL running processes. Configured the Crontab to automate the collection of the Linux system resource usage. Followed the Software Development Life Cycle for GitFlow to track and modify my development of the scripts.
 
 **RDBMS and SQL** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_BennyMugisha/tree/master/sql)]: Integrated the database configuration for PostgreSQL to set up the initial exercise practice. Designed and tested a database using an ERD from an exercise about building data for club members, bookings, and facilities. Provided solutions to questions about database management and queries by following the PostgreSQL documentation.
+
+**Grep App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_BennyMugisha/tree/master/core_java/grep)]: Initialized the core application settings and followed the instructions to use the required tech stack. Utilized Java and an IDE to solve the user story by setting up Maven and developing the Regex application. Optimized the application by using Lambda and Stream APIs to support large files, and published the app using Docker for users.
 
 
 ## Highlighted Projects
@@ -60,4 +52,3 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_BennyMugis
 - Board games
 - Volleyball
 - Traveling and Exploring New Places
->>>>>>> master
