@@ -19,6 +19,8 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_BennyMugis
 
 **RDBMS and SQL** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_BennyMugisha/tree/master/sql)]: Integrated the database configuration for PostgreSQL to set up the initial exercise practice. Designed and tested a database using an ERD from an exercise about building data for club members, bookings, and facilities. Provided solutions to questions about database management and queries by following the PostgreSQL documentation.
 
+**Grep App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_BennyMugisha/tree/master/core_java/grep)]: Initialized the core application settings and followed the instructions to use the required tech stack. Utilized Java and an IDE to solve the user story by setting up Maven and developing the Regex application. Optimized the application by using Lambda and Stream APIs to support large files, and published the app using Docker for users.
+
 
 ## Highlighted Projects
 **Open Chat App**: Implemented an interactive design that helps users navigate the app and find other users without difficulty. Utilized Electron as the main development provider of the cross-platform application.
